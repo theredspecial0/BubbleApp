@@ -2,6 +2,8 @@
 
 # BubbleApp
 A Clinometer app written in SwiftUI. Uses the CoreMotion framework to calculate device motion. iOS/iPadOS 15+
+
+<img src="Preview Content/Preview Assets.xcassets/BubbleApp-Preview.png">
  
 # Installing
  You can compile yourself or download the .IPA from the releases tab. Install the .IPA with any tool like AltStore or TrollStore.
